@@ -60,18 +60,18 @@ In this lab, you will complete the following tasks:
 
 3. On the **Create SQL Database** page, select the following options on the **Basics** tab and then click **Next: Networking**.
 
-- **Subscription:** Use existing subscription
-- **Resource group:** **contoso-rg-<inject key="DeploymentID" enableCopy="false"/>**
-- **Database Name:** AdventureWorksLT
-- **Server:** click on **Create new** link. The **Create SQL Database Server** page will open. Provide the server details as follow:
-- **Server name:** dp300-lab-<inject key="DeploymentID" enableCopy="false"/> **(1)**
-- **Location:**  <inject key="location" enableCopy="false"/> **(2)**
-- **Authentication method:** Use SQL authentication **(3)**
-- **Server admin login:** dp300admin **(4)**
-- **Password:** dp300P@ssword! **(5)**
-- **Confirm password:** dp300P@ssword! **(6)**
+     - **Subscription:** Use existing subscription
+     - **Resource group:** **contoso-rg-<inject key="DeploymentID" enableCopy="false"/>**
+     - **Database Name:** AdventureWorksLT
+     - **Server:** click on **Create new** link. The **Create SQL Database Server** page will open. Provide the server details as follow:
+          - **Server name:** dp300-lab-<inject key="DeploymentID" enableCopy="false"/> **(1)**
+          - **Location:**  <inject key="location" enableCopy="false"/> **(2)**
+          - **Authentication method:** Use SQL authentication **(3)**
+          - **Server admin login:** dp300admin **(4)**
+          - **Password:** dp300P@ssword! **(5)**
+          - **Confirm password:** dp300P@ssword! **(6)**
 
-  Your **Create SQL Database Server** page should look similar to the one below. Then click **OK (7)**.
+          Your **Create SQL Database Server** page should look similar to the one below. Then click **OK (7)**.
 
      ![Picture 7](../images/database-01.png)
 
