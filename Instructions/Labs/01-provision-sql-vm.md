@@ -41,7 +41,7 @@ In this lab, you will complete the following tasks:
     - **Availability Options:** No infrastructure redundancy required
     - **Security Type**: Standard
     - **Image:** Free SQL Server License: SQL 2019 Developer on Windows Server 2022 - Gen1
-    - **Azure spot instance:** No (unchecked)
+    - **Run with Azure spot instance:** No (unchecked)
     - **Size:** Standard *D2s_v3* (2 vCPUs, 8 GiB memory). You may need to select the **"See all sizes"** link to see this option)
     - **Administrator account username:** sqladmin
     - **Administrator account password:** pwd!DP300lab01
