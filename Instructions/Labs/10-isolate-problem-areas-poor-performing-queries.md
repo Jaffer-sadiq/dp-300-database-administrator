@@ -207,19 +207,22 @@ Next you'll run a workload to generate query statistics for query store, examine
 
       ![Expand Query Store](../images/dp300-lab10-img1.png)
 
-1. Expand the **Query Store (1)** node to view all the reports available. Select the and double click **Top Resource Consuming Queries (2)** report.
+2. Expand the **Query Store (1)** node to view all the reports available. Select the and double click **Top Resource Consuming Queries (2)** report.
 
       ![Top Resource Consuming Queries Report from Query Store](../images/upd-dp-300-module-10-lab-07.png)
 
-1. The report will open as shown below. On the right, select **Configure (1)**.
+3. The report will open as shown below. On the right, select **Configure (1)**.
 
       ![Expand Query Store](../images/lab10-configure.png)
 
-1. In the configuration screen, change the filter for the **minimum number of query plans to 2 (1)**. Then select **OK (2)**.
+> **Note**: If the 'configure' option is not available, set page zoom to 75% in browser settings and a dropdown option will appear to select the option.
+ ![Configure](../images/configure.png)
+
+4. In the configuration screen, change the filter for the **minimum number of query plans to 2 (1)**. Then select **OK (2)**.
 
       ![Set Minimum number of query plans](../images/upd-dp-300-module-10-lab-09.png)
 
-1. Choose the query with the longest duration by selecting the left most bar in the bar chart in the top left portion of the report.
+5. Choose the query with the longest duration by selecting the left most bar in the bar chart in the top left portion of the report.
 
       ![Query with longest duration](../images/upd-dp-300-module-10-lab-10.png)
 
