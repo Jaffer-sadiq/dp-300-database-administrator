@@ -72,6 +72,10 @@ In this lab, you will complete the following tasks:
 1. On the next **Data Discovery & Classification (1)** screen select the check box next to **Select all (2)**, select **Accepted selected recommendations(3)**, and then select **Save (4)** to save the classifications into the database.
 
     ![Screenshot showing the Accept selected recommendations](../images/dp-300-lab5-(7).png)
+
+   >**Note**: Please select **click to view** or tap the arrow in the bottom-right corner to expand the columns.
+
+    ![Screenshot showing the Classification Recommendations](../images/dp300-mod5-taparrow.png) 
     
 1. Back to the **Data Discovery & Classification (1)** screen, select **Overview (2)** tab notice that fifteen columns were successfully classified across five different tables.
 
