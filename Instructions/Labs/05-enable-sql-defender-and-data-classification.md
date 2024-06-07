@@ -34,26 +34,12 @@ In this lab, you will complete the following tasks:
 
     ![Screenshot of selecting the Microsoft Defender for Cloud option](../images/dp-300-lab5-3.png) 
 
-1. Click on **Microsoft Defender for Cloud**.
-
-   ![Screenshot of selecting the Microsoft Defender for Cloud option](../images/1.png)
-
-1. On the **Getting started** page of **Microsoft Defender for Cloud**, select **Upgrade**.
-
-   ![Screenshot of selecting the Microsoft Defender for Cloud option](../images/Dp-300-lab5-10.png)
-
-    >**Note**: Please ignore any notification like "Could not start Microsoft Defender trial on the subscription: Subscription ID. Please configure the subscription pricing in the Pricing & Settings Blade" you received.
-
-1. Now, Navigate to the Install Agents blade and select **Install Agent**.
-
-    ![Screenshot of selecting the Microsoft Defender for Cloud option](../images/Dp-300-lab5-9.png)
-  
 
 1. The following notification message will show up after Azure Defender for SQL is successfully enabled.
 
     ![Screenshot of selecting the Configure option](../images/upd-dp-300-module-05-lab-02_1.png)
 
-1. Navigate back to SQL Server page and select **Microsoft Defender for Cloud**, select the **Configure** link (You may need to refresh the page to see this option)
+1. Select **Microsoft Defender for Cloud**, select the **Configure** link (You may need to refresh the page to see this option)
 
     ![Screenshot of selecting the Configure option](../images/dp-300-lab5-4.png)
 

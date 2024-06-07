@@ -121,7 +121,6 @@ There are several ways to generate an execution plan in SQL Server Management St
    
    - When reviewing the execution plan, you will note there is a **Key Lookup**. If you hover your mouse over the icon, you will see that the properties indicate it is performed for each row retrieved by the query. You can see the execution plan is performing a **Key Lookup** operation.
     
-
       ![Screenshot showing the output list of columns](../images/upd-dp-300-module-10-lab-03.png)
     
 
