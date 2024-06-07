@@ -1,6 +1,6 @@
-# Getting Started with Your DP-100: Designing and Implementing a Data Science Solution on Azure Workshop
+# Getting Started with Your DP-300: Azure Database Administrator Associate
  
-Welcome to your DP-100: Designing and Implementing a Data Science Solution on Azure workshop! We've prepared a seamless environment for you to explore and learn about data science and machine learning to implement and run machine learning workloads on Azure. Let's begin by making the most of this experience:
+Welcome to your DP-300: Azure Database Administrator Associate workshop! You'll learn to manage and implement Azure SQL Database and Azure SQL Managed Instance, focusing on deployment, security, performance optimization, and high availability on Azure. Let's begin by making the most of this experience:
  
 ## Accessing Your Lab Environment
  
