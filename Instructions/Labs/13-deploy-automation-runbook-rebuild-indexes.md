@@ -68,6 +68,8 @@ In this lab, you will complete the following tasks:
 
 1. Return to the Query editor, and select **OK** to sign in to your database.
 
+
+
 1.  Click on **Open query**, On the  **Open sql query**  select the file location **C:\LabFiles\Monitorandoptimize** and select **usp_AdaptiveIndexDefrag.sql** and click on **Open**, then select **OK**.
 
     > **Note:** The purpose of this script is to perform an intelligent defragmentation on one or more indexes, as well as required statistics update, for one or more databases.

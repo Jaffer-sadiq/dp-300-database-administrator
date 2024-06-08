@@ -13,7 +13,7 @@ In this lab, you will complete the following tasks:
 
 - Task 1: Restore a database
 - Task 2: Run blocked queries report
-- Task 2: Enable Read Commit Snapshot isolation level
+- Task 3: Enable Read Commit Snapshot isolation level
   
 ## Estimated timing: 30 minutes
 
