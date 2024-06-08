@@ -22,28 +22,27 @@ In this lab, you will complete the following tasks:
 
 1. From the Azure Portal, search for “SQL servers” in the search box at the top, then click on **SQL servers** from the list of options.
 
-    ![Picture 1](../images/dp-300-lab5-1.png)
+   ![Picture 1](../images/dp-300-lab5-1.png)
 
 1. Select the server name **dp300-lab-<inject key="DeploymentID" enableCopy="false"/>** to be taken to the detail page (you may have a different location assigned for your SQL server).
 
-    ![A screenshot of a social media post Description automatically generated](../images/dp-300-lab5-2.png)
+   ![A screenshot of a social media post Description automatically generated](../images/dp-300-lab5-2.png)
 
 1. From the main blade of your Azure SQL server, navigate to the **Security** section, and select **Microsoft Defender for Cloud**.
 
 1. On the **Microsoft Defender for Cloud** page, select **Enable**.
 
-    ![Screenshot of selecting the Microsoft Defender for Cloud option](../images/dp-300-lab5-3.png) 
+   ![Screenshot of selecting the Microsoft Defender for Cloud option](../images/dp-300-lab5-3.png) 
 
 1. The following notification message will show up after Azure Defender for SQL is successfully enabled.
 
-    ![Screenshot of selecting the Configure option](../images/upd-dp-300-module-05-lab-02_1.png)
+   ![Screenshot of selecting the Configure option](../images/upd-dp-300-module-05-lab-02_1.png)
 
-1. Select **Microsoft Defender for Cloud**, select the **Configure** link (You may need to refresh the page to see this option)
+1. Select **Microsoft Defender for Cloud**, and select the **Configure** link (You may need to refresh the page to see this option)
 
-    ![Screenshot of selecting the Configure option](../images/dp-300-lab5-4.png)
+   ![Screenshot of selecting the Configure option](../images/dp-300-lab5-4.png)
 
 1. On the **Server settings** page, notice that toggle switch under **MICROSOFT DEFENDER FOR SQL** is set to **ON**.
-
     
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
 - Click the Lab Validation tab located at the upper right corner of the lab guide section and navigate to the Lab Validation Page.
@@ -55,25 +54,25 @@ In this lab, you will complete the following tasks:
 
 1. From the main blade of your Azure SQL server, navigate to the **Settings** section, and select **SQL databases (1)**, and then select the database name **(2)**.
 
-    ![Screenshot showing selecting the AdventureWOrksLT database](../images/dp-300-lab5-5.png)
+   ![Screenshot showing selecting the AdventureWOrksLT database](../images/dp-300-lab5-5.png)
 
 1. On the main blade for the **AdventureWorksLT** database, from left navigation pane select **Data Discovery & Classification** under **Security** section.
   
 1. On the **Data Discovery & Classification** page, you will see an informational message that reads: **Currently using SQL Information Protection policy. We have found 15 columns with classification recommendations**. Select this link.
 
-      ![Screenshot showing the Classification Recommendations](../images/dp-300-lab5-6.png)
+   ![Screenshot showing the Classification Recommendations](../images/dp-300-lab5-6.png)
       
 1. On the next **Data Discovery & Classification (1)** screen select the check box next to **Select all (2)**, select **Accepted selected recommendations(3)**, and then select **Save (4)** to save the classifications into the database.
 
-    ![Screenshot showing the Accept selected recommendations](../images/dp-300-lab5-(7).png)
+   ![Screenshot showing the Accept selected recommendations](../images/dp-300-lab5-(7).png)
 
    >**Note**: Please select **click to view** or tap the arrow in the bottom-right corner to expand the columns.
 
-    ![Screenshot showing the Classification Recommendations](../images/dp300-mod5-taparrow.png) 
+   ![Screenshot showing the Classification Recommendations](../images/dp300-mod5-taparrow.png) 
     
 1. Back to the **Data Discovery & Classification (1)** screen, select **Overview (2)** tab notice that fifteen columns were successfully classified across five different tables.
 
-    ![Screenshot showing the Accept selected recommendations](../images/dp-300-lab5-8.png)
+   ![Screenshot showing the Accept selected recommendations](../images/dp-300-lab5-8.png)
 
 >**Results:** In this exercise, you've enhanced the security of an Azure SQL Database by enabling Microsoft Defender for SQL. You've also created classified columns based on Azure portal recommendations.
 
