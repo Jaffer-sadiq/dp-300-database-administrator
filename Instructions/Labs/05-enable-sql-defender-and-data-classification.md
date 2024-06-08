@@ -32,7 +32,7 @@ In this lab, you will complete the following tasks:
 
 1. On the **Microsoft Defender for Cloud** page, select **Enable**.
 
-    ![Screenshot of selecting the Microsoft Defender for Cloud option](../images/dp-300-lab5-3.png) 
+     ![Screenshot of selecting the Microsoft Defender for Cloud option](../images/dp-300-lab5-3.png) 
 
 
 1. The following notification message will show up after Azure Defender for SQL is successfully enabled.
