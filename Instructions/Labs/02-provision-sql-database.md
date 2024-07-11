@@ -48,6 +48,8 @@ In this lab, you will complete the following tasks:
 
 7. Under **Service Endpoints** pane on the right, expand the **Services** drop-down, and select **Microsoft.Sql**. Select **Save**.
 
+   ![Picture 16](../images/12.png)
+
 ### Task 2 - Provision an Azure SQL Database
 
 1. From the Azure Portal, search for “SQL databases” in the search box at the top, then click **SQL databases** from the list of options.
@@ -153,6 +155,8 @@ In this lab, you will complete the following tasks:
 
 1. Launch Azure Data Studio from the lab virtual machine.
 
+   ![Picture 24](../images/123456.png)
+
 - You may see this pop-up at initial launch of Azure Data Studio. If you receive it, click **Yes (recommended)**
 
     ![Picture 16](../images/upd-dp-300-module-02-lab-22.png)
@@ -172,6 +176,8 @@ In this lab, you will complete the following tasks:
 - Server group will remain on **&lt;default&gt; (7)**
 - Name (optional) can be populated with a friendly name of the database, if desired
 - Review settings and click **Connect (8)**
+
+   ![Picture 24](../images/12345.png)
 
   >**NOTE:** if in **Database** the option doesn't come, try to reopen **Azure Data Studio** again, and re-perform the steps from 2-3.
 
@@ -221,6 +227,8 @@ In this lab, you will complete the following tasks:
    ```
 
 6. Click on the **blue circle with the arrow to execute** the query. Note how the results are included within the cell with the query.
+
+   ![Picture 24](../images/1234.png)
 
 7. Click the **+ Cell** button, then **Text cell** to add a new code cell at the end of the notebook.
 
