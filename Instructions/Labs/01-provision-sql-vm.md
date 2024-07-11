@@ -97,7 +97,7 @@ In this lab, you will complete the following tasks:
 
     ![Picture 23](../images/dp-300-lab1-12.png)
 
-1. Enter the username and password selected during the virtual machine provisioning process. Then select **OK**.
+1. Enter the username: **sqladmin** and password : **pwd!DP300lab01** selected during the virtual machine provisioning process. Then select **OK**.
 
     ![Picture 24](../images/dp-300-lab1-13.png)
 
