@@ -80,6 +80,8 @@ In this lab, you will complete the following tasks:
  -  Back to the **Create SQL Database** page, make sure **Want to use Elastic Pool?** is set to **No**.
  -  On the **Compute + Storage** option, click on **Configure database** link. On the **Configure** page, for **Service tier** dropdown, select **Basic**, and then **Apply**.
 
+     ![Picture 16](../images/basic.png)
+
       >**Note:**  Make note of this server name, and your login information. You will use it in subsequent labs.
 
 4. For the **Backup storage redundancy** option, keep the default value: **Geo-redundant backup storage**.
