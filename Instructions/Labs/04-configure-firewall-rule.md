@@ -39,7 +39,7 @@ In this lab, you will complete the following task:
 
     >**Note:** Your client IP address was automatically entered for you. Adding your client IP address to the list will allow you to connect to your Azure SQL Database using SQL Server Management Studio or any other client tools. **Make note of your client IP address, you will use it later.**
 
-1. Open SQL Server Management Studio in the labvm. On the Connect to Server dialog box, paste in the name of your Azure SQL Database server, and login with the credentials below:
+1. Open **SQL Server Management Studio** in the labvm. On the Connect to Server dialog box, paste in the name of your Azure SQL Database server, and login with the credentials below:
 
     - **Server name:** <inject key="sqlServerFqdn"></inject> 
     - **Authentication:** SQL Server Authentication
