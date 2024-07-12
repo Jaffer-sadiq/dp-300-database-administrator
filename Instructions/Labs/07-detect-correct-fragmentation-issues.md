@@ -113,7 +113,7 @@ In this lab, you will complete the following tasks:
 
 3. Execute the previous query again. Now you should be able to see four highly fragmented indexes.
 
-    ![Picture 03](../images/dp300-lab7-img6.png)
+    ![Picture 03](../images/Screenshot_16.png)
 
 4. Copy and paste the following T-SQL code into the query window. Select **Execute** to execute this query.
 
@@ -134,8 +134,8 @@ In this lab, you will complete the following tasks:
     ```
 
   5. Click on the **Messages** tab in the result pane of SQL Server Management Studio. Make note of the count of logical reads performed by the query.
-
-      ![Picture 03](../images/dp300-lab7-img7.png)
+      
+      ![Picture 03](../images/dp11.png)
     
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
 - Click the Lab Validation tab located at the upper right corner of the lab guide section and navigate to the Lab Validation Page.
@@ -198,7 +198,9 @@ In this lab, you will complete the following tasks:
         
     GO
     ```
-
+    
+      ![Picture 03](../images/dplast.png)
+   
 Because the index has been rebuilt, it will now be as efficient as possible and the logical reads should reduce. You have now seen that index maintenance can have an effect on query performance.
 
 >**Results:** In this exercise, you've learned how to rebuild index and analyze logical reads to increase query performance.
