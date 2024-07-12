@@ -20,7 +20,7 @@ In this lab, you will complete the following tasks:
 
 1. In the Azure portal, navigate to your database by searching for **sql databases**.
 
-    ![Screenshot of searching for existing SQL databases.](../images/dp-300-lab14-02.png)
+    ![Screenshot of searching for existing SQL databases.](../images/upd-dp-300-module-02-lab-10.png)
 
 1. Select the SQL database **AdventureWorksLT**.
 
@@ -41,7 +41,12 @@ In this lab, you will complete the following tasks:
     
     >**Note:**  As we are creating a new server to host our secondary database, we can ignore the error message above.
 
-1. On the **Create SQL Database Server** page, Enter a unique **server name** of your preference, Select a **location** as the target region, In **Authentication method** select **Use SQL authentication** enter a valid **server admin login**, and a secure **password**, and then select **OK** to create the server.
+1. On the **Create SQL Database Server** page:
+   - Enter a unique **server name (1)** of your preference.
+   - Select a **location (2)** as the target region.
+   - In **Authentication method(3)** select **Use SQL authentication (4)**.
+   - Enter a valid **server admin login (5)**, and a secure **password (6)**.
+   - Select **OK (7)** to create the server.
 
     ![Screenshot showing the Create SQL Database Server page.](../images/lab14-dp-300-L7.png)
 

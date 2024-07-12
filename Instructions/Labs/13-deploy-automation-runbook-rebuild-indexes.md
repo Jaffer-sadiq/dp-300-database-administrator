@@ -106,6 +106,10 @@ The next steps consist of configuring the assets required in preparation for the
 
     ![Screenshot of selecting Select.](../images/dp-300-17.png)
 
+   >**Note**: If you see a message like **Loading failed** as shown below, please wait for 10-15 minutes and then refresh the page.
+
+   ![Screenshot of selecting Select.](../images/123345.png)
+
 1. On the **Add a module** page, under **runtime version** select the latest runtime version available **(1)**, then select **Import (2)**. This will import the PowerShell module into your Automation account.
 
    ![Screenshot of selecting Select.](../images/dp-300-18.png)

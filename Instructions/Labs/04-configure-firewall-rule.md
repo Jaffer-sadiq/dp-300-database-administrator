@@ -45,10 +45,9 @@ In this lab, you will complete the following task:
     - **Authentication:** SQL Server Authentication
     - **Server admin login:** sqladmin
     - **Password:** P@ssw0rd01
+    - Click **Connect**.
 
-    ![A screenshot of a cell phone Description automatically generated](../images/dp300-lab4-img7.png)
-
-1. Click **Connect**.
+     ![A screenshot of a cell phone Description automatically generated](../images/dp300-lab4-img7.png)
 
 1. In Object Explorer expand the server node, and right click on **Databases**. Click **Import Data-tier Application**.
 
@@ -56,9 +55,11 @@ In this lab, you will complete the following task:
 
 1. In the **Import Data Tier Application** dialog, click **Next** on the first screen.
      
-1. In the **Import Settings** screen, click **Browse** and navigate to **C:\LabFiles\SecureEnvironment** folder, click on the **AdventureWorksLT.bacpac** file, and then click **Open**. Back to the **Import Data-tier Application** screen click **Next**.
+1. In the **Import Settings** screen, click **Browse** and navigate to **C:\LabFiles\SecureEnvironment** folder, click on the **AdventureWorksLT.bacpac** file, and then click **Open**.
 
     ![A screenshot of a social media post Description automatically generated](../images/dp300-lab4-img9.png)
+
+1.  Back to the **Import Data-tier Application** screen click **Next**.
 
     ![A screenshot of a social media post Description automatically generated](../images/dp300-lab4-img10.png)
 
@@ -67,9 +68,9 @@ In this lab, you will complete the following task:
     - **Database name:** AdventureWorksFromBacpac
     - **Edition of Microsoft Azure SQL Database**: Basic
 
-    ![A screenshot of a cell phone Description automatically generated](../images/dp300-lab4-img11.png)
+    - Click **Next**.
 
-1. Click **Next**.
+    ![A screenshot of a cell phone Description automatically generated](../images/dp300-lab4-img11.png)
 
 1. On the **Summary** screen click **Finish**. When your import completes you will see the results below. Then click **Close**.
 

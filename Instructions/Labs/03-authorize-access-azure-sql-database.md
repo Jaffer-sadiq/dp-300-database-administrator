@@ -65,7 +65,6 @@ In this lab, you will complete the following tasks:
 - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
 - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
 - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
-  
 
 ### Task 2 - Manage access to database objects
 
@@ -89,7 +88,7 @@ In this task you will manage access to the database and its objects. The first t
     
     ![](../images/dp300-lab3-img12.png)
     
-    **Note:** These users are created in the scope of the AdventureWorksLT database. Next you will create a custom role and add the users to it.
+    >**Note:** These users are created in the scope of the AdventureWorksLT database. Next you will create a custom role and add the users to it.
 
 1. Execute the following T-SQL in the same query window.
 
@@ -149,7 +148,7 @@ In this task you will manage access to the database and its objects. The first t
 
    ![Screenshot showing the returned rows of data from the stored procedure](../images/dp300-lab3-img14_new.png)
 
->**Results:** In this exercise, you've seen how you can use Microsoft Entra ID to grant Azure credentials  access to a SQL Server hosted in Azure. You've also used T-SQL statement to create new database users and granted them permissions to run stored procedures.
+   >**Results:** In this exercise, you've seen how you can use Microsoft Entra ID to grant Azure credentials  access to a SQL Server hosted in Azure. You've also used T-SQL statement to create new database users and granted them permissions to run stored procedures.
 
 ### Review
 

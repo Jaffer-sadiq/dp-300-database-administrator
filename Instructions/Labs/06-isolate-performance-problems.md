@@ -24,7 +24,7 @@ In this lab, you will complete the following tasks:
   
 1. From the Azure Portal, search for “SQL servers” in the search box at the top, then click **SQL servers** from the list of options.
 
-    ![A screenshot of a social media post Description automatically generated](../images/dp-300-lab-06-img2.png)
+    ![A screenshot of a social media post Description automatically generated](../images/dp-300-lab5-1.png)
 
 1. Select the server name **dp300-lab-<inject key="DeploymentID" enableCopy="false" />**
 
