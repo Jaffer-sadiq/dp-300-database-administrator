@@ -186,7 +186,7 @@ Now that the functionality is configured, you can generate a backup file as a bl
     GO 
     ```
 
-    > **Note:** Replace <storage_account_name> with **dp300backupstr<inject key="DeploymentID" enableCopy="false" />**. The output should return something similar to below.
+    > **Note:** Replace `'<storage_account_name>'` with **dp300backupstr<inject key="DeploymentID" enableCopy="false" />**. The output should return something similar to below.
 
     ![Screenshot of the backup error.](../images/upd-dp-300-module-15-lab-18.png)
 
@@ -289,7 +289,7 @@ This task will show you how to restore a database from an Azure blob storage.
     GO
     ```
 
-    > **NOTE:** Replace <storage_account_name> with **dp300backupstr<inject key="DeploymentID" enableCopy="false" />**.
+    > **NOTE:** Replace `'<storage_account_name>'` with **dp300backupstr<inject key="DeploymentID" enableCopy="false" />**.
 
      The output should be similar to this:
 
