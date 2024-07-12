@@ -33,7 +33,7 @@ In this lab, you will complete the following task:
 
    ![Screenshot of selecting CPU percentage](../images/dp300-lab12-img4.png)
 
-4. In the **Create an alert rule** slide out, select **Static (1)** for the **Threshold** property. Then check that the **Aggregation** type is **Average (2)**, the **Operator** property is **Greater than (3)** Then in **Threshold value** enter a value of **80 (4)**. Select **Next:Actions (5)**.
+4. In the **Create an alert rule** slide out, On the **Alert logic** section, select **Static (1)** for the **Threshold** property. Then check that the **Aggregation** type is **Average (2)**, the **Operator** property is **Greater than (3)** Then in **Threshold value** enter a value of **80 (4)**. Select **Next:Actions (5)**.
 
     ![Screenshot of entering 80 and selecting Done](../images/lab12-dp-300-001.png)
 
@@ -41,7 +41,7 @@ In this lab, you will complete the following task:
 
     ![Screenshot of selecting the Create action group](../images/dp300-lab12-img7.png)
 
-6. On the **Create action group** screen, type **emailgroup (1)** in the **Action group name** field, and then select **Next: Notifications (2)**.
+6. On the **Create action group** screen, type **emailgroup (1)** in the **Action group name** field, type **emailgroup** in the **Display name** and then select **Next: Notifications (2)**.
 
     ![Screenshot of entering emailgroup and selecting Next: Notifications](../images/dp-300-lab12-02.png)
 
