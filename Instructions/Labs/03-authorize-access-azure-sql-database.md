@@ -26,7 +26,7 @@ In this lab, you will complete the following tasks:
 
    ![Screenshot of the Azure portal home page, selecting All resources](../images/dp300-lab3-img2_update.png)
 
-1. Search for **dp300 (1)** and select the Azure SQL Database server **dp300-lab-<inject key="DeploymentID" enableCopy="false" /> (2)**
+1. Search for **dp300 (1)** and select the SQL server **dp300-lab-<inject key="DeploymentID" enableCopy="false" /> (2)**
 
    ![Screenshot selecting Not Configured](../images/dp300-lab3-img3_update.png)
 
@@ -56,7 +56,7 @@ In this lab, you will complete the following tasks:
 
    ![Screenshot of the Connect to server dialog](../images/dp300-lab3-img9.png)
 
-    >**NOTE:** When you first try to sign in to an Azure SQL database, You may be asked to add your client IP address to the firewall. SQL Server Management Studio can do this for you. Use the Azure Portal **password** from the **Environment Details** tab, then select **Sign in**, choose your Azure credentials and then select **OK**.
+    >**NOTE:** When you first try to sign in to an Azure SQL database, You may be asked to add your client IP address to the firewall. SQL Server Management Studio can do this for you. Use the Azure Portal **password** from the **Environment Details** tab, then select **Sign in**, choose your Azure credentials, and then select **OK**.
    
    ![Screenshot of adding the client IP address](../images/lab3_sql_pass.png)
    
@@ -68,7 +68,7 @@ In this lab, you will complete the following tasks:
 
 ### Task 2 - Manage access to database objects
 
-In this task you will manage access to the database and its objects. The first thing you will do is create two users in the *AdventureWorksLT* database.
+In this task, you will manage access to the database and its objects. The first thing you will do is create two users in the *AdventureWorksLT* database.
 
 1. Use the **Object Explorer** and expand **Databases**.
 
@@ -88,7 +88,7 @@ In this task you will manage access to the database and its objects. The first t
     
     ![](../images/dp300-lab3-img12.png)
     
-    >**Note:** These users are created in the scope of the AdventureWorksLT database. Next you will create a custom role and add the users to it.
+    >**Note:** These users are created in the scope of the AdventureWorksLT database. Next, you will create a custom role and add the users to it.
 
 1. Execute the following T-SQL in the same query window.
 
