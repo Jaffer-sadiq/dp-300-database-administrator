@@ -37,7 +37,7 @@ You are a database administrator for AdventureWorks. You need to create a test e
     - **Virtual machine name:**  azureSQLServerVM
     - **Region:** &lt;your local region, same as the selected region for your resource group&gt;
     - **Availability Options:** No infrastructure redundancy required
-    - **Image:** Free SQL Server License: SQL 2019 Developer on Windows Server 2022 - Gen1
+    - **Image:** Free SQL Server License: SQL server 2019 Developer on Windows Server 2022 - Gen1
     - **Azure spot instance:** No (unchecked)
     - **Size:** Standard *D2s_v3* (2 vCPUs, 8 GiB memory). You may need to select the "See all sizes" link to see this option)
     - **Administrator account username:** sqladmin
