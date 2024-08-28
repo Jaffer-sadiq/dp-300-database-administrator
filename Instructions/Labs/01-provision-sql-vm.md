@@ -109,7 +109,7 @@ In this lab, you will complete the following tasks:
 
    ![Picture 34](../images/dp-300-lab1-15.png)
 
-1. When SSMS opens, notice that the **Connect to Server** dialog will be pre-populated with the default instance name. Select **Connect**.
+1. When SSMS opens, notice that the Connect to Server dialog will be pre-populated with the default instance name. Check the option Trust server certificate and then select Connect.
 
     ![Picture 35](../images/dp-300-lab1-16.png)
 
