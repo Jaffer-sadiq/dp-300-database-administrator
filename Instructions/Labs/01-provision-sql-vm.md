@@ -69,7 +69,7 @@ In this lab, you will complete the following tasks:
 
     >**Note:** Your deployment may take 5-10 minutes to complete.
 
-    ![Picture 19](../images/dp-300-lab1-8.png)
+    ![Picture 19](../images/up1.png)
     
  1. On the **Overview** page for the virtual machine, explore the menu options for this resource to review what is available.
 
